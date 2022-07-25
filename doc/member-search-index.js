@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"CourseDBStructureTest","l":"CourseDBStructureTest()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"CourseDBStructureTest","l":"setUp()"},{"p":"<Unnamed>","c":"CourseDBStructureTest","l":"tearDown()"},{"p":"<Unnamed>","c":"CourseDBStructureTest","l":"testGetTableSize()"},{"p":"<Unnamed>","c":"CourseDBStructureTest","l":"testHashTable()"}]
